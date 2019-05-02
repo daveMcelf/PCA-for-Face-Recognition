@@ -2,7 +2,7 @@
 Required Python Library: OpenCV, Numpy, PIL
 - Place the program (eface.py) in the same folder with images directory.
 - Computer the program by running:
-```python
+```
 python eface.py --pc NUM
 ```
 where NUM is the number of component to be executing. NUM default value is 100.
