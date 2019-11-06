@@ -1,4 +1,4 @@
-# PCA-for-Face-Recognition
+# PCA for Face Recognition
 Required Python Library: OpenCV, Numpy, PIL
 - Place the program (eface.py) in the same folder with images directory.
 - Computer the program by running:
